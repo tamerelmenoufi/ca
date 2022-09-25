@@ -1,5 +1,5 @@
 <?php
-    include("{$_SERVER['DOCUMENT_ROOT']}/coronel_amadeu/lib/includes.php");
+    include("{$_SERVER['DOCUMENT_ROOT']}/ca/lib/includes.php");
 ?>
 <!doctype html>
 <html lang="en">
