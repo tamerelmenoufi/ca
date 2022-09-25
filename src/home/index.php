@@ -1,7 +1,7 @@
 <nav class="navbar fixed-top bg-light">
   <div class="container-fluid">
-    <img src="img/icone.png" style="position:absolute; top:10px; left:20px; border:2px solid #fff; border-radius:100%; width:50px;" >
-    <a class="navbar-brand" href="#" style="margin-left:100px;">Fixed top</a>
+    <img src="img/icone.png" style="position:absolute; top:10px; left:20px; border:2px solid #fff; border-radius:100%; width:60px;" >
+    <a class="navbar-brand" href="#" style="margin-left:80px;">Fixed top</a>
   </div>
 </nav>
 
