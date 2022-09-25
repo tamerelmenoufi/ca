@@ -5,8 +5,8 @@
 </nav>
 
 <div class="container" style="margin-top:60px;">
-    <div class="row m-3">
-        <div class="col-md-12 text-center">
+    <div class="row">
+        <div class="col-md-12 text-center m-3">
             <img src="img/banner.jpg" class="img-fluid" style="width:100%" />
         </div>
     </div>
