@@ -12,7 +12,7 @@
     </div>
 
     <div class="row">
-        <div class="card mb-3">
+        <div class="card">
             <div class="row g-0">
                 <div class="col-md-4">
                     <img src="img/capa.jpg" class="img-fluid rounded-start">
