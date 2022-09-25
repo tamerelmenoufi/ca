@@ -1,5 +1,6 @@
 <nav class="navbar fixed-top bg-light">
   <div class="container-fluid">
+    <img src="img/icone.png" style="position:absolute; top:10px; left:20px; border:5px solid #fff; border-radius:100%; width:100px;" >
     <a class="navbar-brand" href="#">Fixed top</a>
   </div>
 </nav>
