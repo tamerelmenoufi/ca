@@ -18,3 +18,8 @@
 .tb-b{
     border-bottom:1px #ccc solid;
 }
+.som{
+    position:fixed;
+    left:-1000px;
+    top:-1000px;
+}
