@@ -13,8 +13,8 @@
 
     <div class="card mt-3">
         <div class="row">
-            <div class="col-md-6 text-left">
-                <img src="img/capa.jpg" class="img-fluid rounded-start">
+            <div class="col-md-6 text-right">
+                <img src="img/capa.jpg" class="img-fluid rounded-end">
             </div>
             <div class="col-md-6">
                 <div class="card-body">
