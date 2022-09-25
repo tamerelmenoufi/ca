@@ -1,9 +1,13 @@
+
+
+
+<nav class="navbar fixed-top bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Fixed top</a>
+  </div>
+</nav>
+
 <div class="container">
-
-    <nav class="navbar" style="background-color: #e3f2fd;">
-    <!-- Navbar content -->
-    </nav>
-
     <div class="row">
         <div class="col-md-12 text-center">
             <img src="img/banner.jpg" class="img-fluid" />
