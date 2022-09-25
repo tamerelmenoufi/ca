@@ -14,10 +14,10 @@
     <div class="row">
         <div class="card m-3">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <img src="img/capa.jpg" class="img-fluid rounded-start">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-6">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
