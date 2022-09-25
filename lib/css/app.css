@@ -1,5 +1,5 @@
 body{
-    background-color: #0c1e34;
+    background-image: linear-gradient(#0c1e34, #ffffff);
 }
 .Carregando{
     position:fixed;
