@@ -1,5 +1,6 @@
 body{
     background-image: linear-gradient(#0c1e34, #ffffff);
+    background-repeat: no-repeat;
 }
 .Carregando{
     position:fixed;
