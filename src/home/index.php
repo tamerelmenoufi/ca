@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="col-md-6" style="text-align:right;">
-                <img src="img/proposta.jpg" class="img-fluid rounded-end">
+                <img src="img/propostas.jpg" class="img-fluid rounded-end">
             </div>
         </div>
     </div>
