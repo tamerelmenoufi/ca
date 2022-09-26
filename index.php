@@ -30,11 +30,11 @@
     >
       <div class="row">
         <div class="col-md-9" >
-            Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação. <br>
+            Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação.
             <a style="font-size:16px;" href="#" abrir="src/home/privacidade.php">Política de Privacidade. </a>
         </div>
 
-        <div class="col-md-3" >
+        <div class="col-md-3" style="text-align:right" >
             <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
         </div>
       </div>
