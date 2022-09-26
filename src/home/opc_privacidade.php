@@ -23,11 +23,11 @@
 
         $("button[bloqueio]").click(function(){
             $.confirm({
-                content:'<center><h1><i class="fa-solid fa-face-sad-tear"></i></h1>Deseja realmente bloquear o nosso contato com você?</center>',
+                content:'<center><h1 style="color:yellow"><i class="fa-solid fa-face-sad-tear"></i></h1>Deseja realmente bloquear o nosso contato com você?</center>',
                 title:false,
                 buttons:{
                     'SIM':function(){
-                        $.alert('<center><h1><i class="fa-solid fa-face-sad-cry"></i></h1>Seus dados foram bloqueados da nossa base de dados!</center>');
+                        $.alert('<center><h1 style="color:yellow"><i class="fa-solid fa-face-sad-cry"></i></h1>Seus dados foram bloqueados da nossa base de dados!</center>');
                         opc_privacidade.close();
                     },
                     'NÃO':function(){

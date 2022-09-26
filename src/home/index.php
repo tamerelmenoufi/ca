@@ -154,7 +154,7 @@
 
         $(".apio").click(function(){
             $.dialog({
-                content:'<center><h1><i class="fa-solid fa-face-grin-wide"></i></h1>Obrigado pelo seu apoio, TMJ Rumo a Vitóra! <h3><i class="fa-solid fa-handshake"></i><h3> </center>',
+                content:'<center><h1 style="color:yellow"><i class="fa-solid fa-face-grin-wide"></i></h1>Obrigado pelo seu apoio, TMJ Rumo a Vitóra! <h3><i class="fa-solid fa-handshake"></i><h3> </center>',
                 title:false,
             })
         });
