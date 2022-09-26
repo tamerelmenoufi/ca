@@ -11,40 +11,29 @@
 
                     <div class="carousel-item active">
                         <div class="row">
-                            <div class="col-md-6">
-                                <img src="img/1a3.jpg" class="d-block w-100" >
-                            </div>
-                            <div class="col-md-6" style="background-color:#ccc;">
-                                <h5>First slide label</h5>
-                                <p>Some representative placeholder content for the first slide.</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="carousel-item">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <img src="img/1a3.jpg" class="d-block w-100" >
-                            </div>
-                            <div class="col-md-6" style="background-color:#fff;">
-                                <h5>First slide label</h5>
-                                <p>Some representative placeholder content for the first slide.</p>
+                            <div class="col-md-12 text-center">
+                                <img src="img/1a3.jpg" class="img-fluid" >
                             </div>
                         </div>
                     </div>
 
                     <div class="carousel-item">
                         <div class="row">
-                            <div class="col-md-6">
-                                <img src="img/1a3.jpg" class="d-block w-100" >
-                            </div>
-                            <div class="col-md-6" style="background-color:#fff;">
-                                <h5>First slide label</h5>
-                                <p>Some representative placeholder content for the first slide.</p>
+                            <div class="col-md-12 text-center">
+                                <img src="img/1a3.jpg" class="img-fluid" >
                             </div>
                         </div>
                     </div>
+
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <img src="img/1a3.jpg" class="img-fluid" >
+                            </div>
+                        </div>
+                    </div>
+
+
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
