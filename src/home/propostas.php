@@ -47,3 +47,15 @@
         </div>
     </div>
 </div>
+<span class="close_popup" style="position:fixed; top:20px; right:20px; color:#fff; font-weight:bold; font-size:20px; cursor:pointer;">
+    <i class="fa-solid fa-close"></i>
+</span>
+
+<script>
+    $(function(){
+        $(".close_popup").click(function(){
+            $(".popup").html("");
+            $(".popup").css("display","none");
+        });
+    })
+</script>
