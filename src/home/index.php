@@ -91,6 +91,11 @@
         <span style="margin-left:35px;">Coronel Amadeu 35111</span>
         <i class="fa-regular fa-hand-peace" style="position:absolute; left:5px; top:2px; font-size:30px;"></i>
     </button>
+
+    <button class="btn btn-link btn-sm" style="color:red;">
+        <i class="fa-regular fa-circle-xmark"></i>
+        Sair
+    </button>
   </div>
 </nav>
 
