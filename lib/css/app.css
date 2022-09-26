@@ -27,6 +27,11 @@ body{
     left:-1000px;
     top:-1000px;
 }
+
+img[acao]{
+    cursor: pointer;
+}
+
 .popup{
     position:fixed;
     left:0;
