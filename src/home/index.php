@@ -135,13 +135,13 @@
                 $(this).attr("play","off");
                 $(this).removeClass("fa-volume-high");
                 $(this).addClass("fa-volume-xmark");
-                $(".somX").pause();
+                $(".somX")[0].stop();
 
             }else{
                 $(this).attr("play","on");
                 $(this).removeClass("fa-volume-xmark");
                 $(this).addClass("fa-volume-high");
-                $(".somX").play();
+                $(".somX")[0].play();
             }
         });
 
