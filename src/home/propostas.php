@@ -5,7 +5,7 @@
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div> -->
-        <div class="carousel-inner" style="position:absolute; bottom:0; top:0; left:0; right:0; border:solid 1px red;">
+        <div class="carousel-inner" style="position:absolute; bottom:0; top:0; left:0; right:0;">
 
             <div class="carousel-item <?=(($_GET['atual'] == 'img/1a3.jpg')?'active':false)?>">
                 <div class="row">
@@ -74,9 +74,10 @@
 <script>
     $(function(){
 
-        a = $(".carousel-inner").height();
-        $("img[tratar]").css("height",a);
-
+        if(resolucao == 'pc'){
+            a = $(".carousel-inner").height();
+            $("img[tratar]").css("height",a);
+        }
 
         $(".close_popup").click(function(){
             $(".popup").html("");
