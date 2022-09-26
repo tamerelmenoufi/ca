@@ -3,8 +3,8 @@
     <img src="img/icone.png" style="position:absolute; top:10px; left:20px; border:2px solid #eee; border-radius:100%; width:60px;" >
     <a class="navbar-brand" href="#" style="margin-left:80px;">
         CORONEL AMADEU
-        <i class="fa-solid fa-volume-high" play="on" style="margin-left:15px; cursor:point;"></i>
     </a>
+    <i class="fa-solid fa-volume-high" play="on" style="margin-left:15px; cursor:point;"></i>
   </div>
 </nav>
 
