@@ -88,8 +88,8 @@
 <nav class="navbar fixed-bottom bg-light">
   <div class="container-fluid">
     <button class="btn btn-success btn-md" style="position:relative;">
-        <span style="margin-left:40px;">Coronel Amadeu 35111</span>
-        <i class="fa-regular fa-hand-peace" style="position:absolute; left:5px; top:2px; font-size:35px;"></i>
+        <span style="margin-left:35px;">Coronel Amadeu 35111</span>
+        <i class="fa-regular fa-hand-peace" style="position:absolute; left:5px; top:2px; font-size:30px;"></i>
     </button>
   </div>
 </nav>
