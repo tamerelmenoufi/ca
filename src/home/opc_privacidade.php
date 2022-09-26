@@ -27,7 +27,7 @@
                 title:false,
                 buttons:{
                     'SIM':function(){
-                        $.alert('<center><h1 style="color:red font-size:50px;"><i class="fa-solid fa-face-sad-cry"></i></h1>Seus dados foram bloqueados de nossa base!</center>');
+                        $.alert('<center><h1 style="color:red; font-size:50px;"><i class="fa-solid fa-face-sad-cry"></i></h1>Seus dados foram bloqueados de nossa base!</center>');
                         opc_privacidade.close();
                     },
                     'NÃO':function(){
