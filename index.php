@@ -25,7 +25,7 @@
 
     <div
     style="margin:0px; position:fixed!important; bottom:0;
-    background-color:#000000d6; z-index:999999999999; padding:20px; width:100%; color:#fff; font-weight:bold; font-size:14px;"
+    background-color:#000000d6; z-index:999999999999; width:100%; color:#fff; font-weight:bold; font-size:14px;"
     id="privacidade"
     >
       <div class="row">
