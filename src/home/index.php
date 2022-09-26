@@ -93,9 +93,8 @@
         $("img[acao]").click(function(){
             atual = $(this).attr("src");
             if($(this).attr("acao") == 'popup'){
-                $(".popup").css("display","block");
                 $.ajax({
-                    url:"src/propostas.php",
+                    url:"src/home/propostas.php",
                     data:{
                         atual
                     },
