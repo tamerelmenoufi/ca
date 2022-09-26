@@ -4,7 +4,7 @@
     <a class="navbar-brand" href="#" style="margin-left:80px;">
         CORONEL AMADEU
     </a>
-    <i class="fa-solid fa-volume-high" play="on" style="margin-left:15px; cursor:point;"></i>
+    <i class="fa-solid fa-circle-play" play="on" style="margin-left:15px; cursor:point;"></i>
   </div>
 </nav>
 
@@ -112,8 +112,6 @@
     $(function(){
         Carregando('none');
 
-        $(".somX")[0].play();
-
         $("img[acao]").click(function(){
             atual = $(this).attr("src");
             if($(this).attr("acao") == 'popup'){
@@ -135,14 +133,14 @@
             opc = $(this).attr("play");
             if(opc == 'on'){
                 $(this).attr("play","off");
-                $(this).removeClass("fa-volume-high");
-                $(this).addClass("fa-volume-xmark");
+                $(this).removeClass("fa-circle-stop");
+                $(this).addClass("fa-circle-play");
                 $(".somX")[0].pause();
 
             }else{
                 $(this).attr("play","on");
-                $(this).removeClass("fa-volume-xmark");
-                $(this).addClass("fa-volume-high");
+                $(this).removeClass("fa-circle-play");
+                $(this).addClass("fa-circle-stop");
                 $(".somX")[0].play();
             }
         });
