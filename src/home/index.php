@@ -112,6 +112,8 @@
     $(function(){
         Carregando('none');
 
+        $(".somX")[0].play();
+
         $("img[acao]").click(function(){
             atual = $(this).attr("src");
             if($(this).attr("acao") == 'popup'){
