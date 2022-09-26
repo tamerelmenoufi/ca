@@ -36,6 +36,13 @@
                     $(".CorpoApp").html(dados);
                 }
             });
+
+            $.dialog({
+              content:'Respeitamos a sua privacidade e por isso que seguimos a lei geral de proteção de dados LGPD.<br><br>Se não quiser receber mais nossas notificações, clique no botão <button class="btn btn-link btn-sm" style="color:red; text-decoration:none"><i class="fa-regular fa-circle-xmark"></i>Sair</button> no rodapé desta página.',
+              title:false,
+              style:'red'
+            })
+
         })
     </script>
 
