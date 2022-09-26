@@ -152,7 +152,7 @@
             })
         });
 
-        $(".privacidade").click(function(){
+        $(".apio").click(function(){
             $.dialog({
                 content:'<center><h1><i class="fa-solid fa-face-grin-wide"></i></h1>Obrigado pelo seu apoio, TMJ Rumo a Vitóra! <i class="fa-solid fa-handshake"></i> </center>',
                 title:false,
