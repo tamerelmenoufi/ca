@@ -80,6 +80,7 @@
         $(".close_popup").click(function(){
             $(".popup").html("");
             $(".popup").css("display","none");
+            $("body").css("overflow","scroll");
         });
     })
 </script>
