@@ -135,7 +135,7 @@
                 $(this).attr("play","off");
                 $(this).removeClass("fa-volume-high");
                 $(this).addClass("fa-volume-xmark");
-                $("audio").stop();
+                $("audio").pause();
 
             }else{
                 $(this).attr("play","on");
