@@ -95,7 +95,7 @@
 
 <nav class="navbar fixed-bottom bg-light">
   <div class="container-fluid">
-    <button class="btn btn-success btn-md" style="position:relative;">
+    <button class="btn btn-success btn-md apio" style="position:relative;">
         <span style="margin-left:35px;">Coronel Amadeu 35111</span>
         <i class="fa-regular fa-hand-peace" style="position:absolute; left:5px; top:2px; font-size:30px;"></i>
     </button>
@@ -152,5 +152,11 @@
             })
         });
 
+        $(".privacidade").click(function(){
+            $.dialog({
+                content:'<center><h1><i class="fa-solid fa-face-grin-wide"></i></h1>Obrigado pelo seu apoio, TMJ Rumo a Vitóra! <i class="fa-solid fa-handshake"></i> </center>',
+                title:false,
+            })
+        });
     })
 </script>
