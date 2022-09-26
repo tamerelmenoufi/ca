@@ -1,5 +1,5 @@
 <div style="position:absolute; bottom:10px; top:80px; left:0; right:0;">
-    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false" style="border:solid 1px red;">
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false" style="position:absolute; bottom:0; top:0; left:0; right:0; border:solid 1px red;">
         <!-- <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
