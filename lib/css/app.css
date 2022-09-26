@@ -27,3 +27,12 @@ body{
     left:-1000px;
     top:-1000px;
 }
+.popup{
+    position:fixed;
+    left:0;
+    top:0;
+    right: 0;
+    bottom: 0;
+    background: rgb(12, 30, 52, 0.5);
+    z-index: 10;
+}
