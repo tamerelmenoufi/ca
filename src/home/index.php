@@ -146,7 +146,7 @@
         });
 
         $(".privacidade").click(function(){
-            $.dialog({
+            opc_privacidade = $.dialog({
                 content:"url:src/home/opc_privacidade.php",
                 title:false,
             })

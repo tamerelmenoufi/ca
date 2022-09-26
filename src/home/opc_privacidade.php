@@ -18,6 +18,7 @@
             title:"Política de Privacidade",
             columnClass:'col-md-12'
             })
+            opc_privacidade.close();
         })
 
         $("button[bloqueio]").click(function(){
@@ -27,6 +28,7 @@
                 buttons:{
                     'SIM':function(){
                         $.alert('<center><h1><i class="fa-solid fa-face-sad-cry"></i></h1>Seus dados foram bloqueados da nossa base de dados!</center>');
+                        opc_privacidade.close();
                     },
                     'NÃO':function(){
 
