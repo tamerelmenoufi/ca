@@ -23,11 +23,6 @@
     <div class="popup"></div>
 
 
-    <audio controls loop class="som">
-      <source src="audio/som.mp3" type="audio/mpeg">
-    </audio>
-
-
     <?php
     include("lib/footer.php");
     ?>

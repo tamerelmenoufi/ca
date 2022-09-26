@@ -77,6 +77,11 @@
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p>
+                    <audio controls loop class="somX" style="width:100%">
+                        <source src="audio/som.mp3" type="audio/mpeg">
+                    </audio>
+                    </p>
                 </div>
             </div>
         </div>
