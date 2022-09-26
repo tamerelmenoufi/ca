@@ -88,8 +88,8 @@
 <nav class="navbar fixed-bottom bg-light">
   <div class="container-fluid">
     <button class="btn btn-success btn-lg">
-        Eu Apio Coronel Amadeu 35111
-        <i class="fa-regular fa-hand-peace"></i>
+        <span style="margin-left:40px;">Coronel Amadeu 35111</span>
+        <i class="fa-regular fa-hand-peace" style="position:absolute; left:5px; top:-20px; font-size:30px;"></i>
     </button>
   </div>
 </nav>
