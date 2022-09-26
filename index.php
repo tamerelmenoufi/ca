@@ -30,7 +30,7 @@
     >
       <div class="row">
         <div class="col-md-9" >
-          <span style="padding:20px;">
+          <span style="padding:20px; margin-top:10px; text-align:center;">
             Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação.
             <a style="font-size:16px; margin-left:20px;" href="#" abrir="src/home/privacidade.php">Política de Privacidade. </a>
           </span>
