@@ -89,5 +89,23 @@
 <script>
     $(function(){
         Carregando('none');
+
+        $("img[acao]").click(function(){
+            atual = $(this).attr("src");
+            if($(this).attr("acao") == 'popup'){
+                $(".popup").css("display","block");
+                $.ajax({
+                    url:"src/propostas.php",
+                    data:{
+                        atual
+                    },
+                    success:function(dados){
+                        $(".popup").html(dados);
+                        $(".popup").css("display","block");
+                    }
+                });
+            }
+        });
+
     })
 </script>
