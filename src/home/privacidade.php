@@ -1,6 +1,5 @@
 <div style="padding:30px; text-align:justify">
 
-    <h2>Política Privacidade</h2>
         <p>
             A sua privacidade é importante para nós. É política do Mohatron Soluções em Tecnologia da Informação respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site <a href=http://www.mohatron.com.br/portal/index.php?u=politica_privacidade&c=6&cam=#>Mohatron Soluções em Tecnologia da Informação</a>, e outros sites que possuímos e operamos.
         </p>
