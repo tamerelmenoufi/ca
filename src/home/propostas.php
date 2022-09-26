@@ -10,7 +10,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/1a3.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img src="img/1a3.jpg" style="height:100%" >
+                        <img src="img/1a3.jpg" >
                     </div>
                 </div>
             </div>
@@ -18,7 +18,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/4a5.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img src="img/4a5.jpg" style="height:100%" >
+                        <img src="img/4a5.jpg" >
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/6a8.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img src="img/6a8.jpg" style="height:100%" >
+                        <img src="img/6a8.jpg" >
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/9a11.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img src="img/9a11.jpg" style="height:100%" >
+                        <img src="img/9a11.jpg" >
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/12a13.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img src="img/12a13.jpg" style="height:100%" >
+                        <img src="img/12a13.jpg" >
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/14a17.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <img src="img/14a17.jpg" style="height:100%" >
+                        <img src="img/14a17.jpg" >
                     </div>
                 </div>
             </div>
