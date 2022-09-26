@@ -10,7 +10,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/1a3.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-lg-6 offset-lg-3 col-md-6 offset-md-3 col-sm-12 text-center">
-                        <img src="img/1a3.jpg" tratar >
+                        <img src="img/1a3.jpg" tratar class="img-fluid >
                     </div>
                 </div>
             </div>
@@ -18,7 +18,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/4a5.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-lg-6 offset-lg-3 col-md-6 offset-md-3 col-sm-12 text-center">
-                        <img src="img/4a5.jpg" tratar >
+                        <img src="img/4a5.jpg" tratar class="img-fluid >
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/6a8.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-lg-6 offset-lg-3 col-md-6 offset-md-3 col-sm-12 text-center">
-                        <img src="img/6a8.jpg" tratar >
+                        <img src="img/6a8.jpg" tratar class="img-fluid >
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/9a11.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-lg-6 offset-lg-3 col-md-6 offset-md-3 col-sm-12 text-center">
-                        <img src="img/9a11.jpg" tratar >
+                        <img src="img/9a11.jpg" tratar class="img-fluid >
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/12a13.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-lg-6 offset-lg-3 col-md-6 offset-md-3 col-sm-12 text-center">
-                        <img src="img/12a13.jpg" tratar >
+                        <img src="img/12a13.jpg" tratar class="img-fluid >
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
             <div class="carousel-item <?=(($_GET['atual'] == 'img/14a17.jpg')?'active':false)?>">
                 <div class="row">
                     <div class="col-lg-6 offset-lg-3 col-md-6 offset-md-3 col-sm-12 text-center">
-                        <img src="img/14a17.jpg" tratar >
+                        <img src="img/14a17.jpg" tratar class="img-fluid >
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@
 
         if(resolucao == 'pc'){
             a = $(".carousel-inner").height();
-            $("img[tratar]").css("height",a);
+            $("img[tratar class="img-fluid]").css("height",a);
         }
 
         $(".close_popup").click(function(){
