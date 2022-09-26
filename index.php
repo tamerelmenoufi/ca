@@ -30,12 +30,14 @@
     >
       <div class="row">
         <div class="col-md-9" >
+          <span style="padding:20px;">
             Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação.
-            <a style="font-size:16px;" href="#" abrir="src/home/privacidade.php">Política de Privacidade. </a>
+            <a style="font-size:16px; margin-left:20px;" href="#" abrir="src/home/privacidade.php">Política de Privacidade. </a>
+          </span>
         </div>
 
         <div class="col-md-3" style="text-align:right" >
-            <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
+            <span style="padding:20px;"><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
         </div>
       </div>
     </div>
