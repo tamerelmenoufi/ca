@@ -14,7 +14,7 @@
                             <div class="col-md-6">
                                 <img src="img/1a3.jpg" class="d-block w-100" >
                             </div>
-                            <div class="col-md-6" style="background-color:#fff;">
+                            <div class="col-md-6" style="background-color:#ccc;">
                                 <h5>First slide label</h5>
                                 <p>Some representative placeholder content for the first slide.</p>
                             </div>
