@@ -4,7 +4,7 @@
     <a class="navbar-brand" href="#" style="margin-left:80px;">
         CORONEL AMADEU
     </a>
-    <i class="fa-solid fa-circle-play fa-2x" play="on" style="margin-left:15px; cursor:pointer;"></i>
+    <i class="fa-solid fa-circle-play fa-2x" play="off" style="margin-left:15px; cursor:pointer;"></i>
   </div>
 </nav>
 
