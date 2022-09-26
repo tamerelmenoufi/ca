@@ -23,7 +23,7 @@
     <div class="popup"></div>
 
 
-    <audio controls autoplay loop class="som">
+    <audio controls loop class="som">
       <source src="audio/som.mp3" type="audio/mpeg">
     </audio>
 
