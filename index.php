@@ -28,6 +28,7 @@
     background-color:#000000d6; z-index:999999999999; padding:20px; width:100%; color:#fff; font-weight:bold; font-size:14px;"
     id="privacidade"
     >
+      <div class="row">
         <div class="col-md-9" >
             Este site utiliza cookies confiáveis e inofensivos para garantir uma melhor experiência de navegação. <br>
             <a style="font-size:16px;" href="#" abrir="src/home/privacidade.php">Política de Privacidade. </a>
@@ -36,6 +37,7 @@
         <div class="col-md-3" >
             <span><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></span>
         </div>
+      </div>
     </div>
 
 
