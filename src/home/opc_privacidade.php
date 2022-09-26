@@ -24,7 +24,7 @@
         $("button[bloqueio]").click(function(){
             $.confirm({
                 content:'<center><h1><i class="fa-solid fa-face-sad-tear"></i></h1>Deseja realmente bloquear o nosso contato com você?</center>',
-                titule:false,
+                title:false,
                 buttons:{
                     'SIM':function(){
                         $.alert('<center><h1><i class="fa-solid fa-face-sad-cry"></i></h1>Seus dados foram bloqueados da nossa base de dados!</center>');
