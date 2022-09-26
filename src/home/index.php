@@ -36,25 +36,25 @@
                 <div class="card-body">
                     <h5 class="card-title">Card title</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <div class="row mb-3">
-                        <div class="col-md-4">
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
                             <img src="img/1a3.jpg" class="img-fluid" acao="popup" />
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 mb-3">
                             <img src="img/4a5.jpg" class="img-fluid" acao="popup" />
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 mb-3">
                             <img src="img/6a8.jpg" class="img-fluid" acao="popup" />
                         </div>
                     </div>
-                    <div class="row mb-3">
-                        <div class="col-md-4">
+                    <div class="row">
+                        <div class="col-md-4 mb-3">
                             <img src="img/9a11.jpg" class="img-fluid" acao="popup" />
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 mb-3">
                             <img src="img/12a13.jpg" class="img-fluid" acao="popup" />
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 mb-3">
                             <img src="img/14a17.jpg" class="img-fluid" acao="popup" />
                         </div>
                     </div>
