@@ -1,4 +1,4 @@
-<div class="container mt-3">
+<div class="container" style="margin-top:25%;">
     <div class="row">
         <div class="col-md-12">
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
