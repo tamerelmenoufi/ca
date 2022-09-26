@@ -100,7 +100,7 @@
         <i class="fa-regular fa-hand-peace" style="position:absolute; left:5px; top:2px; font-size:30px;"></i>
     </button>
 
-    <button class="btn btn-link btn-sm" style="color:green; text-decoration:none">
+    <button class="btn btn-link btn-sm privacidade" style="color:green; text-decoration:none">
         <i class="fa-solid fa-lock"></i>
         Privacidade
     </button>
@@ -143,6 +143,13 @@
                 $(this).addClass("fa-circle-stop");
                 $(".somX")[0].play();
             }
+        });
+
+        $(".privacidade").click(function(){
+            $.dialog({
+                content:"url:src/home/opc_privacidade.php",
+                title:false,
+            })
         });
 
     })
