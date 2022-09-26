@@ -37,7 +37,7 @@
         </div>
 
         <div class="col-md-3" style="text-align:right" >
-            <div style="padding:20px;"><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Aceitar</a></div>
+            <div style="padding:20px;"><a id="ocultar" style="border-radius:16px;margin:5px;font-size:16px;" class="btn btn-warning pull-right"  role="button">Entendi</a></div>
         </div>
       </div>
     </div>
