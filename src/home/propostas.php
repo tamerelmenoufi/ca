@@ -1,4 +1,5 @@
 <div style="position:absolute; bottom:10px; top:80px; left:0; right:0; border:solid 1px red;">
+    <div style="position:relative;">
         <div class="col-md-12">
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
                 <!-- <div class="carousel-indicators">
@@ -68,6 +69,7 @@
                 </button>
             </div>
         </div>
+    </div>
 </div>
 <span class="close_popup" style="position:fixed; top:10px; right:20px; color:#fff; font-weight:bold; font-size:40px; cursor:pointer; z-index:10">
     <i class="fa-solid fa-close"></i>
