@@ -2,14 +2,14 @@
     <div class="row">
         <div class="col-md-12">
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
-                <div class="carousel-indicators">
+                <!-- <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                </div>
+                </div> -->
                 <div class="carousel-inner">
 
-                    <div class="carousel-item active">
+                    <div class="carousel-item <?=(($_GET['atual'] == 'img/1a3.jpg')?'active':false)?>">
                         <div class="row">
                             <div class="col-md-12 text-center">
                                 <img src="img/1a3.jpg" style="max-width:50%" >
@@ -17,22 +17,46 @@
                         </div>
                     </div>
 
-                    <div class="carousel-item">
+                    <div class="carousel-item <?=(($_GET['atual'] == 'img/4a5.jpg')?'active':false)?>">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <img src="img/1a3.jpg" style="max-width:50%" >
+                                <img src="img/4a5.jpg" style="max-width:50%" >
                             </div>
                         </div>
                     </div>
 
-                    <div class="carousel-item">
+                    <div class="carousel-item <?=(($_GET['atual'] == 'img/6a8.jpg')?'active':false)?>">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <img src="img/1a3.jpg" style="max-width:50%" >
+                                <img src="img/6a8.jpg" style="max-width:50%" >
                             </div>
                         </div>
                     </div>
 
+                    <div class="carousel-item <?=(($_GET['atual'] == 'img/9a11.jpg')?'active':false)?>">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <img src="img/9a11.jpg" style="max-width:50%" >
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="carousel-item <?=(($_GET['atual'] == 'img/12a13.jpg')?'active':false)?>">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <img src="img/12a13.jpg" style="max-width:50%" >
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item <?=(($_GET['atual'] == 'img/14a17.jpg')?'active':false)?>">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <img src="img/14a17.jpg" style="max-width:50%" >
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
