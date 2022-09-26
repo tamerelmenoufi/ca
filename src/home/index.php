@@ -87,7 +87,10 @@
 
 <nav class="navbar fixed-bottom bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Seus direitos reservados</a>
+    <button class="btn btn-success">
+        Eu Apio Coronel Amadeu 35111
+        <i class="fa-regular fa-hand-peace"></i>
+    </button>
   </div>
 </nav>
 
