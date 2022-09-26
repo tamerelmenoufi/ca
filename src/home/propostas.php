@@ -76,7 +76,7 @@
 
         if(resolucao == 'pc'){
             a = $(".carousel-inner").height();
-            $('img[tratar class="img-fluid"]').css("height",a);
+            $('img[tratar]').css("height",a);
         }
 
         $(".close_popup").click(function(){
