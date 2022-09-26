@@ -1,4 +1,4 @@
-<div style="position:absolute; bottom:10px; top:80px; left:0; right:0;">
+<div style="position:absolute; bottom:10px; top:80px; left:0; right:0; border:solid 1px red;">
     <div class="row">
         <div class="col-md-12">
             <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
