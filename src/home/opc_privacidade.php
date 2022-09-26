@@ -1,4 +1,4 @@
-<div class="col-md-12">
+<div class="col-md-12 mt-3">
     <button class="btn btn-primary mt-3 btn-lg w-100">
         <i class="fa-solid fa-spell-check"></i>
         Política de Privacidade
