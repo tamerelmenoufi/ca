@@ -12,7 +12,7 @@
                     <div class="carousel-item active">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <img src="img/1a3.jpg" class="img-fluid" >
+                                <img src="img/1a3.jpg" style="max-width:50%" >
                             </div>
                         </div>
                     </div>
@@ -20,7 +20,7 @@
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <img src="img/1a3.jpg" class="img-fluid" >
+                                <img src="img/1a3.jpg" style="max-width:50%" >
                             </div>
                         </div>
                     </div>
@@ -28,7 +28,7 @@
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <img src="img/1a3.jpg" class="img-fluid" >
+                                <img src="img/1a3.jpg" style="max-width:50%" >
                             </div>
                         </div>
                     </div>
